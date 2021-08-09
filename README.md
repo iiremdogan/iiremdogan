@@ -11,34 +11,7 @@ Android Developer
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiremdogan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Kotlin-lightgrey)
-![](https://img.shields.io/badge/Code-Java-lightgrey)
-![](https://img.shields.io/badge/Code-Python-lightgrey)
-![](https://img.shields.io/badge/Editor-Android%20Studio-lightgrey)
-
-<!-- links to social media icons -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/irem-doğan/" target="blank"
-    ><img
-      align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
-      alt="irem-doğan"
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://www.instagram.com/iirem.dogan/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="iirem.dogan"
-      height="30"
-      width="30"
-  /></a>
-</p>
+#
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -83,6 +56,27 @@ Android Developer
     />
   </a>
 
+  <!-- links to social media icons -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/irem-doğan/" target="blank"
+    ><img
+      align="center"
+      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      alt="irem-doğan"
+      height="30"
+      width="30"
+  /></a>
+  <a href="https://www.instagram.com/iirem.dogan/" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+      alt="iirem.dogan"
+      height="30"
+      width="30"
+  /></a>
+</p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
