@@ -63,16 +63,8 @@ Android Developer
   <a href="https://www.linkedin.com/in/irem-doğan/" target="blank"
     ><img
       align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
       alt="irem-doğan"
-      height="30"
-      width="30"
-  /></a>
-  <a href="https://www.instagram.com/iirem.dogan/" target="blank"
-    ><img
-      align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
-      alt="iirem.dogan"
       height="30"
       width="30"
   /></a>
